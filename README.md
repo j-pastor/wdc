@@ -1,0 +1,2 @@
+# wdc
+Wikidata categories
