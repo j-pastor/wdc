@@ -1,6 +1,9 @@
 # wdc
 Wikidata categories
 ===================
+
+Requeriments: PHP 6 client or abouve must be installed in the system.
+
 Simply download the .zip file and unzip it.
 
 To generate RDF statements for a Wikidata category item simply type in the command line
